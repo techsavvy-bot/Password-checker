@@ -5,8 +5,7 @@ Checks your password if its hacked anytime or not in turn helps to choose the ri
 Copy the main.py in your local machine and use any python 3 interpreter to run
 
 ### Prerequisites
-What things you need to install the software and how to install them
-In command line install
+What things you need to install 
 ```
 pip install requests
 ```
