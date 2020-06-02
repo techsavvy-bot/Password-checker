@@ -10,3 +10,12 @@ In command line install
 ```
 pip install requests
 ```
+## Built With
+* [haveibeenpwned](https://haveibeenpwned.com/API/v3) The API allows the list of       pwned accounts (email addresses and usernames) to be quickly searched via a         RESTful service.
+
+## Author
+* **Tushar Mittal**
+
+## Acknowledgements
+* Hat tip to anyone whose code was used
+* Inspiration
